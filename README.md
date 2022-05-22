@@ -1,5 +1,8 @@
 # A-Star Pathfinding Algorithm Visualizer
-<h3>How to use the program:</h3>
+### How to _run_ the program:
+`python a-star.py`
+
+### How to _use_ the program:
 
 - `Click` to create start point, end point & barricades to maneuver around.
 - `Space` to start the algorithm.
