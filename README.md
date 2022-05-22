@@ -12,4 +12,4 @@
 <br>
 <br>
 
-![Alt Text](https://i.imgur.com/nxsQpjL.gif)
+![A* PathFinding Demonstration](https://i.imgur.com/nxsQpjL.gif)
