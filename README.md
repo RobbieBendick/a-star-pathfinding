@@ -1,6 +1,6 @@
 # A-Star Pathfinding Algorithm Visualizer
 ### Requirements:
-- Have [python](https://www.python.org/downloads/) installed & hooked up to the correct [path](https://www.javatpoint.com/how-to-set-python-path).
+- Have [python](https://www.python.org/downloads/) installed.
 
 ### How to _run_ the program:
 
