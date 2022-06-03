@@ -1,6 +1,6 @@
 # A-Star Pathfinding Algorithm Visualizer
 ### Requirements:
-- Have [python](https://www.python.org/downloads/) installed.
+- [python](https://www.python.org/downloads/)
 
 ### How to _run_ the program:
 
